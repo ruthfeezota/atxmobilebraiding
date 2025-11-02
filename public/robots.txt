@@ -1,0 +1,6 @@
+# robots.txt for atxmobilebraiding.com
+
+User-agent: *
+Disallow:
+
+Sitemap: https://www.atxmobilebraiding.com/sitemap.xml

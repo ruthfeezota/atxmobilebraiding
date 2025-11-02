@@ -1,0 +1,163 @@
+{
+  "Header": {
+    "title": "Expert Braiders Delivered to Your Door",
+    "paragraph": "We are your premier destination for mobile African hair braiding in Austin, Round Rock, Pflugerville, Cedar Park, Georgetown, Kyle, Buda, and San Marcos TX. We offer both salon and home/mobile visits."
+  },
+  "About": {
+    "paragraph": "Liz here, your Austin expert in African hair braiding. I began braiding hair as a side hustle while studying in college. Creative, skilled, and passionate, I quickly mastered the craft and began teaching others about hair care and protective styling. For over 10 years, I’ve been a professional braider, now bringing high-quality mobile braiding to Austin and surrounding areas. After years of serving clients in Providence, I relocated to Texas to launch Austin Mobile Hair Braiding. I truly love transforming hair and helping women feel confident through beautiful protective styles. If you searched for “hair braiding near me in Austin,” you just found the best!",
+    "Why": [
+      "Experienced Braider – 10+ years of professional African hair braiding.",
+      "Healthy Hair First – Techniques designed to protect and grow natural hair."
+    ],
+    "Why2": [
+      "Mobile Convenience – Expert braiding services delivered to your home.",
+      "Educator’s Touch – Guidance on maintenance so your braids last longer."
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg",
+      "alt": "black hair salons near me Austin TX, natural hair salon Austin TX, African hair braiding near me Austin TX, braiding salons near me Austin TX, braiding shops near me Austin TX, hair braiding shops near me Austin TX, knotless braids Austin TX, Senegalese twists Austin TX"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg",
+      "alt": "black hair salons near me Round Rock TX, natural hair salon Round Rock TX, African hair braiding near me Round Rock TX, braiding salons near me Round Rock TX, braiding shops near me Round Rock TX, knotless braids Round Rock TX, box braids Round Rock TX"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg",
+      "alt": "black hair salons near me Pflugerville TX, natural hair salon Pflugerville TX, African hair braiding near me Pflugerville TX, braiding salons near me Pflugerville TX, braiding shops near me Pflugerville TX, knotless braids Pflugerville TX, feed in braids Pflugerville TX"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg",
+      "alt": "hair braiding near me Cedar Park TX, knotless box braids near me Cedar Park TX, African braiding salons near me Cedar Park TX, box braids Cedar Park TX, lemonade braids Cedar Park TX, braiders Cedar Park TX"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg",
+      "alt": "hair braiding near me Georgetown TX, knotless box braids near me Georgetown TX, African braiding salons near me Georgetown TX, boho braids Georgetown TX, feed in braids Georgetown TX"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg",
+      "alt": "hair braiding near me Kyle TX, knotless box braids near me Kyle TX, African braiding salons near me Kyle TX, box braids Kyle TX, lemonade braids Kyle TX, kids braids Kyle TX"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg",
+      "alt": "hair braiding near me Buda TX, knotless box braids near me Buda TX, African braiding salons near me Buda TX, feed in braids Buda TX, boho twists Buda TX"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg",
+      "alt": "hair braiding near me San Marcos TX, knotless braids near me San Marcos TX, African hair braiding San Marcos TX, braiding salons near me San Marcos TX"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg",
+      "alt": "hair braiding near me Austin TX, knotless box braids Austin TX, African braiding salons Austin TX, feed in braids Austin TX, boho braids Austin TX, braiding shops near me Austin TX"
+    }
+  ],
+  "Services": [
+    {
+      "img": "img/services/BoxBraids.jpg",
+      "name": "Box Braids",
+      "text": "Neat, versatile braids that last. Knotless options available.",
+      "link": "YOUR_AUSTIN_BOOKING_LINK"
+    },
+    {
+      "img": "img/services/BraidsNew.jpeg",
+      "name": "Cornrows",
+      "text": "Classic or creative scalp braids for everyday wear or special events.",
+      "link": "YOUR_AUSTIN_BOOKING_LINK"
+    },
+    {
+      "img": "img/services/SenegaleseTwist.jpg",
+      "name": "Senegalese Twists",
+      "text": "Lightweight two-strand twists using premium extensions.",
+      "link": "YOUR_AUSTIN_BOOKING_LINK"
+    },
+    {
+      "img": "img/services/MicroBraids.jpg",
+      "name": "Kids’ Braids",
+      "text": "Protective, kid-friendly styles that stay neat through busy weeks.",
+      "link": "YOUR_AUSTIN_BOOKING_LINK"
+    },
+    {
+      "img": "img/services/FauxLocs.jpeg",
+      "name": "Faux Locs",
+      "text": "Natural-looking loc styles without the commitment.",
+      "link": "YOUR_AUSTIN_BOOKING_LINK"
+    },
+    {
+      "img": "img/services/SewIn.jpg",
+      "name": "Weaves",
+      "text": "Seamless installs for added length and volume.",
+      "link": "YOUR_AUSTIN_BOOKING_LINK"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/Profile1.jpg",
+      "text": "Liz is amazing! She braided my hair at home and made the whole experience so convenient. My braids look flawless and she cared about my hair health too. Best mobile braider in Austin!",
+      "name": "Ariel M."
+    },
+    {
+      "img": "img/testimonials/Profile2.jpg",
+      "text": "First time getting braids and Liz made me feel so comfortable. She explained everything and gave care tips. I’m obsessed with my knotless braids! Highly recommend if you want African hair braiding near you in Austin.",
+      "name": "Bianca L."
+    },
+    {
+      "img": "img/testimonials/Profile3.jpeg",
+      "text": "I love that Liz travels! I didn’t have to leave my house. She is quick, gentle, and talented. I got so many compliments on my boho braids. Worth every penny!",
+      "name": "Nia T."
+    }
+  ],
+  "Team": [],
+  "Contact": {
+    "address": "Austin, TX",
+    "phone": "+1 (737) 244-2473",
+    "email": "atxmobilebraiding@gmail.com",
+    "facebook": "",
+    "instagram": "",
+    "pinterest": ""
+  },
+  "Features": [
+    {
+      "img": "img/Features/KidsBraids.jpg",
+      "title": "Kids Hair Braiding",
+      "link": "YOUR_AUSTIN_BOOKING_LINK",
+      "alt": "Kids braids Austin TX, children braider near me Austin"
+    },
+    {
+      "img": "img/Features/BohoBraids.jpg",
+      "title": "Boho Braids & Twists",
+      "link": "YOUR_AUSTIN_BOOKING_LINK",
+      "alt": "Boho braids Austin TX, boho twists near me Austin"
+    },
+    {
+      "img": "img/Features/MensBraids2.jpeg",
+      "title": "Men Braids",
+      "link": "YOUR_AUSTIN_BOOKING_LINK",
+      "alt": "Men braids Austin TX, male braider near me Austin"
+    },
+    {
+      "img": "img/Features/FrenchBraids.jpg.webp",
+      "title": "Layered French Curls",
+      "link": "YOUR_AUSTIN_BOOKING_LINK",
+      "alt": "French curl braids Austin TX, French curl braider Austin"
+    }
+  ]
+}
