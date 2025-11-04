@@ -75,7 +75,7 @@ export default function MajesticBraidsPopup() {
           </h2>
 
           <div className="text-gray-700 text-md sm:text-md mb-4">
-            Join the Majestic Braids insider list and receive:
+            Join the Austin Mobile Braiding insider list and receive:
             <ul className="mt-2 space-y-1">
               <li>💇‍♀ 15% OFF your first appointment</li>
               <li>📬 Monthly hair care tips & exclusive coupons</li>

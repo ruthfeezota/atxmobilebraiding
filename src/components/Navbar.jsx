@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import logo1 from "./assets/logo1.png";
+import logo1 from "./assets/logogold.png";
 
 function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -16,7 +16,7 @@ function Navbar() {
             <img
               src={logo1}
               alt="Austin Mobile Hair Braiding Logo"
-              className="h-52 md:h-52"
+              className="h-32 md:h-32"
             />
           </a>
 

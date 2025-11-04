@@ -1,5 +1,5 @@
 import React from "react";
-import ElizaImage from "../components/assets/ElizaPhoto.png";
+import ElizaImage from "../components/assets/hair-braiding.jpg";
 
 const Check = (props: React.SVGProps<SVGSVGElement>) => (
   <svg viewBox="0 0 20 20" aria-hidden="true" className={props.className}>
