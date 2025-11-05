@@ -7,7 +7,7 @@ function Navbar() {
   return (
     <section className="bg-white shadow">
       <nav className="font-inter mx-auto w-full max-w-screen-2xl relative">
-        <div className="flex items-center px-6 py-4 md:px-10 xl:px-20 mt-10 md:mt-0">
+        <div className="flex items-center px-6 py-4 md:px-10 xl:px-20 mt-10 md:mt-2">
           {/* Logo */}
           <a
             href="/"
@@ -27,7 +27,7 @@ function Navbar() {
   <a href="#services" className="hover:text-[#73C2F4]">Services</a>
   <a href="#testimonials" className="hover:text-[#73C2F4]">Testimonials</a>
   <a href="#contact" className="hover:text-[#73C2F4]">Contact Us</a>
-  <a href="https://book.squareup.com/appointments/ssrk16cq70u9xm/location/L90W7ZYT50MKG/services" className="hover:text-[#73C2F4]">
+  <a href="https://app.squareup.com/appointments/book/9sa73pd3r58ged/LX4S95WG88DY2/start" className="hover:text-[#73C2F4]">
     Book Service Now
   </a>
 </div>
@@ -62,7 +62,7 @@ function Navbar() {
             <a href="#testimonials" className="block hover:text-[#73C2F4]">Testimonials</a>
             <a href="#contact" className="block hover:text-[#73C2F4]">Contact Us</a>
             <a
-              href="https://book.squareup.com/appointments/ssrk16cq70u9xm/location/L90W7ZYT50MKG/services"
+              href="https://app.squareup.com/appointments/book/9sa73pd3r58ged/LX4S95WG88DY2/start"
               className="block hover:text-[#73C2F4]"
             >
               Book Service Now

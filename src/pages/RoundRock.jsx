@@ -16,7 +16,7 @@ export const RoundRock = (props) => {
         content="hair braiding Austin TX, mobile hair braiding Austin TX, African hair braiding Austin TX, box braids Austin TX, knotless braids Austin TX, Senegalese twists Austin TX, feed in braids Austin TX, boho braids Austin TX, braiding salon Austin TX, braids near me Austin TX, kids braids Austin TX, black hair salons Austin TX, natural hair salon Austin TX, braiding services Austin TX, best braiding salons Austin TX, braiding shops Austin TX, cheap hair braiding Austin TX, lemonade braids Austin TX, hair braiding shops Austin TX, African braiding salons Austin TX"
       />
       <a
-        href="https://book.squareup.com/appointments/ssrk16cq70u9xm/location/L90W7ZYT50MKG/services"
+        href="https://app.squareup.com/appointments/book/9sa73pd3r58ged/LX4S95WG88DY2/start"
         className="fixed bottom-6 right-6 bg-[#73C2F4] text-white hover:text-white hover:bg-sky-600 font-semibold py-4 px-8 rounded-full shadow-lg z-50 transition duration-300"
         target="_blank"
         rel="noopener noreferrer"
@@ -56,7 +56,7 @@ export const RoundRock = (props) => {
             </div>
             <div className="mt-10">
               <a
-                href="https://book.squareup.com/appointments/ssrk16cq70u9xm/location/L90W7ZYT50MKG/services"
+                href="https://app.squareup.com/appointments/book/9sa73pd3r58ged/LX4S95WG88DY2/start"
                 className="inline-block bg-[#73C2F4] text-white hover:bg-sky-600 hover:text-white font-semibold py-5 px-10 rounded-full text-lg transition duration-300 uppercase"
                 target="_blank"
                 rel="noopener noreferrer"

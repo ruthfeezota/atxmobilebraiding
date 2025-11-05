@@ -65,25 +65,25 @@ export const Features = (props) => {
 //     {
 //       "img": "img/portfolio/images.jpeg",
 //       "title": "Hair Braiding",
-//       "link": "https://book.squareup.com/appointments/ssrk16cq70u9xm/location/L90W7ZYT50MKG/services",
+//       "link": "https://app.squareup.com/appointments/book/9sa73pd3r58ged/LX4S95WG88DY2/start",
 //       "alt": "Hair Braiding: We offer a wide range of hair braiding services, ensuring you find the perfect style."
 //     },    
 //     {
 //       "img": "img/portfolio/twista.jpg",
 //       "title": "Twists",
-//       "link": "https://book.squareup.com/appointments/ssrk16cq70u9xm/location/L90W7ZYT50MKG/services",
+//       "link": "https://app.squareup.com/appointments/book/9sa73pd3r58ged/LX4S95WG88DY2/start",
 //       "alt": "Twists: Including Senegalese twist hair for a stylish and protective look."
 //     },
 //     {
 //      "img": "img/services/FauxLocs.jpeg",
 //       "title": "Faux Locs",
-//       "link": "https://book.squareup.com/appointments/ssrk16cq70u9xm/location/L90W7ZYT50MKG/services",
+//       "link": "https://app.squareup.com/appointments/book/9sa73pd3r58ged/LX4S95WG88DY2/start",
 //       "alt": "Faux Locs: Get the look of locs without the commitment."
 //     },
 //     {
 //      "img": "img/portfolio/sewIns.png",
 //       "title": "Weaves/Sew-Ins",
-//       "link": "https://book.squareup.com/appointments/ssrk16cq70u9xm/location/L90W7ZYT50MKG/services",
+//       "link": "https://app.squareup.com/appointments/book/9sa73pd3r58ged/LX4S95WG88DY2/start",
 //       "alt": "Weaves/Sew-Ins: Add length and volume with our professional weave services."
 //     }
 //   ]

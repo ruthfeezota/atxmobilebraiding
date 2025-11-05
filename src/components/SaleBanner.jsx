@@ -6,7 +6,7 @@ function SaleBanner() {
       <div className="absolute top-0 mx-auto flex w-full items-center justify-center bg-[#2C1755] py-4">
         <p className="md:mx-auto text-center text-[#E4CBAA] font-extrabold">
           <a
-            href="https://book.squareup.com/appointments/ssrk16cq70u9xm/location/L90W7ZYT50MKG/services/UFZKZIVG7Y4RFJ7N3APS7IMZ"
+            href="https://app.squareup.com/appointments/book/9sa73pd3r58ged/LX4S95WG88DY2/start/UFZKZIVG7Y4RFJ7N3APS7IMZ"
             className="font-extrabold hover:underline"
           >
             🌟 Women Big Box Braids — Only $100! Limited Time. Book Your Spot Now!

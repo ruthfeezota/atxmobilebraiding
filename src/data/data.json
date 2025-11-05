@@ -4,7 +4,7 @@
     "paragraph": "We are your premier destination for mobile African hair braiding in Austin, Round Rock, Pflugerville, Cedar Park, Georgetown, Kyle, Buda, and San Marcos TX. We offer both salon and home/mobile visits."
   },
   "About": {
-    "paragraph": "Liz here, your Austin expert in African hair braiding. I began braiding hair as a side hustle while studying in college. Creative, skilled, and passionate, I quickly mastered the craft and began teaching others about hair care and protective styling. For over 10 years, I’ve been a professional braider, now bringing high-quality mobile braiding to Austin and surrounding areas. After years of serving clients in Austin, I relocated to Texas to launch Austin Mobile Hair Braiding. I truly love transforming hair and helping women feel confident through beautiful protective styles. If you searched for “hair braiding near me in Austin,” you just found the best!",
+    "paragraph": "Ruth here, your Austin expert in African hair braiding. I began braiding hair as a side hustle while studying in college. Creative, skilled, and passionate, I quickly mastered the craft and began teaching others about hair care and protective styling. For over 10 years, I’ve been a professional braider, now bringing high-quality mobile braiding to Austin and surrounding areas. After years of serving clients in Austin, I relocated to Texas to launch Austin Mobile Hair Braiding. I truly love transforming hair and helping women feel confident through beautiful protective styles. If you searched for “hair braiding near me in Austin,” you just found the best!",
     "Why": [
       "Experienced Braider – 10+ years of professional African hair braiding.",
       "Healthy Hair First – Techniques designed to protect and grow natural hair."
@@ -75,37 +75,37 @@
       "img": "img/services/BoxBraids.jpg",
       "name": "Box Braids",
       "text": "Neat, versatile braids that last. Knotless options available.",
-      "link": "YOUR_AUSTIN_BOOKING_LINK"
+      "link": "https://app.squareup.com/appointments/book/9sa73pd3r58ged/LX4S95WG88DY2/start"
     },
     {
       "img": "img/services/BraidsNew.jpeg",
       "name": "Cornrows",
       "text": "Classic or creative scalp braids for everyday wear or special events.",
-      "link": "YOUR_AUSTIN_BOOKING_LINK"
+      "link": "https://app.squareup.com/appointments/book/9sa73pd3r58ged/LX4S95WG88DY2/start"
     },
     {
       "img": "img/services/SenegaleseTwist.jpg",
       "name": "Senegalese Twists",
       "text": "Lightweight two-strand twists using premium extensions.",
-      "link": "YOUR_AUSTIN_BOOKING_LINK"
+      "link": "https://app.squareup.com/appointments/book/9sa73pd3r58ged/LX4S95WG88DY2/start"
     },
     {
       "img": "img/services/MicroBraids.jpg",
       "name": "Kids’ Braids",
       "text": "Protective, kid-friendly styles that stay neat through busy weeks.",
-      "link": "YOUR_AUSTIN_BOOKING_LINK"
+      "link": "https://app.squareup.com/appointments/book/9sa73pd3r58ged/LX4S95WG88DY2/start"
     },
     {
       "img": "img/services/FauxLocs.jpeg",
       "name": "Faux Locs",
       "text": "Natural-looking loc styles without the commitment.",
-      "link": "YOUR_AUSTIN_BOOKING_LINK"
+      "link": "https://app.squareup.com/appointments/book/9sa73pd3r58ged/LX4S95WG88DY2/start"
     },
     {
       "img": "img/services/SewIn.jpg",
       "name": "Weaves",
       "text": "Seamless installs for added length and volume.",
-      "link": "YOUR_AUSTIN_BOOKING_LINK"
+      "link": "https://app.squareup.com/appointments/book/9sa73pd3r58ged/LX4S95WG88DY2/start"
     }
   ],
   "Testimonials": [
@@ -138,25 +138,25 @@
     {
       "img": "img/Features/KidsBraids.jpg",
       "title": "Kids Hair Braiding",
-      "link": "YOUR_AUSTIN_BOOKING_LINK",
+      "link": "https://app.squareup.com/appointments/book/9sa73pd3r58ged/LX4S95WG88DY2/start",
       "alt": "Kids braids Austin TX, children braider near me Austin"
     },
     {
       "img": "img/Features/BohoBraids.jpg",
       "title": "Boho Braids & Twists",
-      "link": "YOUR_AUSTIN_BOOKING_LINK",
+      "link": "https://app.squareup.com/appointments/book/9sa73pd3r58ged/LX4S95WG88DY2/start",
       "alt": "Boho braids Austin TX, boho twists near me Austin"
     },
     {
       "img": "img/Features/MensBraids2.jpeg",
       "title": "Men Braids",
-      "link": "YOUR_AUSTIN_BOOKING_LINK",
+      "link": "https://app.squareup.com/appointments/book/9sa73pd3r58ged/LX4S95WG88DY2/start",
       "alt": "Men braids Austin TX, male braider near me Austin"
     },
     {
       "img": "img/Features/FrenchBraids.jpg.webp",
       "title": "Layered French Curls",
-      "link": "YOUR_AUSTIN_BOOKING_LINK",
+      "link": "https://app.squareup.com/appointments/book/9sa73pd3r58ged/LX4S95WG88DY2/start",
       "alt": "French curl braids Austin TX, French curl braider Austin"
     }
   ]

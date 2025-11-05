@@ -76,7 +76,7 @@ const Hero = () => (
       </p>
       <div className="mt-10">
         <a
-          href="https://book.squareup.com/appointments/ssrk16cq70u9xm/location/L90W7ZYT50MKG/services/WONOOQ34BM72MLS4KK2Y2ACD"
+          href="https://app.squareup.com/appointments/book/9sa73pd3r58ged/LX4S95WG88DY2/start/WONOOQ34BM72MLS4KK2Y2ACD"
           className="inline-block bg-[#73C2F4] text-black hover:bg-sky-600 hover:text-white font-semibold py-5 px-10 rounded-full text-1xl transition duration-300 uppercase "
         >
           Book Your Party Now
@@ -241,7 +241,7 @@ const Pricing = () => (
 
   <div id="booking" className="mt-6 flex flex-col sm:flex-row justify-center items-center gap-4">
     <a
-      href="https://book.squareup.com/appointments/ssrk16cq70u9xm/location/L90W7ZYT50MKG/services/WONOOQ34BM72MLS4KK2Y2ACD"
+      href="https://app.squareup.com/appointments/book/9sa73pd3r58ged/LX4S95WG88DY2/start/WONOOQ34BM72MLS4KK2Y2ACD"
       className="inline-block px-6 py-3 rounded-full bg-[#73C2F4] text-white font-semibold"
     >
       Book Your Party Braid Bar

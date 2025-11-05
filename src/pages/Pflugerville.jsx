@@ -16,7 +16,7 @@ export const Pflugerville = (props) => {
         content="hair braiding Pflugerville TX, mobile hair braiding Pflugerville TX, African hair braiding Pflugerville TX, box braids Pflugerville TX, knotless braids Pflugerville TX, Senegalese twists Pflugerville TX, feed in braids Pflugerville TX, boho braids Pflugerville TX, braiding salon Pflugerville TX, braids near me Pflugerville TX, kids braids Pflugerville TX, black hair salons Pflugerville TX, natural hair salon Pflugerville TX, braiding services Pflugerville TX, best braiding salons Pflugerville TX, braiding shops Pflugerville TX, cheap hair braiding Pflugerville TX, lemonade braids Pflugerville TX, hair braiding shops Pflugerville TX, African braiding salons Pflugerville TX"
       />
       <a
-        href="https://book.squareup.com/appointments/ssrk16cq70u9xm/location/L90W7ZYT50MKG/services"
+        href="https://app.squareup.com/appointments/book/9sa73pd3r58ged/LX4S95WG88DY2/start"
         className="fixed bottom-6 right-6 bg-[#73C2F4] text-white hover:text-white hover:bg-sky-600 font-semibold py-4 px-8 rounded-full shadow-lg z-50 transition duration-300"
         target="_blank"
         rel="noopener noreferrer"
@@ -56,7 +56,7 @@ export const Pflugerville = (props) => {
             </div>
             <div className="mt-10">
               <a
-                href="https://book.squareup.com/appointments/ssrk16cq70u9xm/location/L90W7ZYT50MKG/services"
+                href="https://app.squareup.com/appointments/book/9sa73pd3r58ged/LX4S95WG88DY2/start"
                 className="inline-block bg-[#73C2F4] text-white hover:bg-sky-600 hover:text-white font-semibold py-5 px-10 rounded-full text-lg transition duration-300 uppercase"
                 target="_blank"
                 rel="noopener noreferrer"
