@@ -3,9 +3,9 @@ import emailjs from "emailjs-com";
 import { db, collection, addDoc } from "../firebase";
 import popupImage from "../components/assets/PopImage.jpg";
 
-const SERVICE_ID = "service_c1pdnqt";
-const TEMPLATE_ID = "template_lv9xhis";
-const PUBLIC_KEY = "U80LPRuWqwjMEgMAa";
+const SERVICE_ID = "service_fjpcu14";
+const TEMPLATE_ID = "template_zahcrwu";
+const PUBLIC_KEY = "iadG7PnQocoiLevB9";
 
 export default function MajesticBraidsPopup() {
   const [showPopup, setShowPopup] = useState(false);
