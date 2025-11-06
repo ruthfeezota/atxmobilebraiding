@@ -11,9 +11,9 @@ import { getFirestore, collection, addDoc } from "firebase/firestore";
 import { app } from "../firebase";
 import emailjs from "@emailjs/browser";
 
-const SERVICE_ID = "service_c1pdnqt";
-const TEMPLATE_ID = "template_eypahnq";
-const PUBLIC_KEY = "U80LPRuWqwjMEgMAa";
+const SERVICE_ID = "service_fjpcu14";
+const TEMPLATE_ID = "template_8rn0se5";
+const PUBLIC_KEY = "NecS76ApHb4slNsWV";
 
 const initialState = {
   name: "",

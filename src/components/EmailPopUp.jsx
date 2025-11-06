@@ -5,7 +5,7 @@ import popupImage from "../components/assets/PopImage.jpg";
 
 const SERVICE_ID = "service_fjpcu14";
 const TEMPLATE_ID = "template_zahcrwu";
-const PUBLIC_KEY = "iadG7PnQocoiLevB9";
+const PUBLIC_KEY = "NecS76ApHb4slNsWV";
 
 export default function MajesticBraidsPopup() {
   const [showPopup, setShowPopup] = useState(false);
