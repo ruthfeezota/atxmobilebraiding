@@ -50,7 +50,7 @@ function Home() {
          <Services data={landingPageData.Services} />
          <Testimonials data={landingPageData.Testimonials} />
          <Contact data={landingPageData.Contact} />
-         <EmailPopup/>
+         {/* <EmailPopup/> */}
      
        </div>
        </main>
