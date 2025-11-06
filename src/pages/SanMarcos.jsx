@@ -4,18 +4,21 @@ import { Contact } from '../components/contact';
 import Smallergallery from '../components/Smallergallery';
 
 
-export const Pawtucket = (props) => {
+export const SanMarcos = (props) => {
   return (
     <main className="relative min-h-screen w-screen overflow-x-hidden">
-      <title>Hair Braiding in Pawtucket RI | Austin Mobile Hair Braiding: Mobile Hair Braiding Pawtucket | Austin Mobile Hair Braiding RI</title>
+    
+      <title>Hair Braiding in San Marcos MA | Austin Mobile Hair Braiding: Mobile Hair Braiding San Marcos | Austin Mobile Hair Braiding MA</title>
       <meta
         name="description"
-        content="Austin Mobile Hair Braiding RI: Your premier mobile hair braiding salon in Pawtucket, RI. Specializing in box braids, knotless braids, Senegalese twists, and more. Expert African hair braiding services brought directly to you in Pawtucket. Book your appointment today for top-rated braids in Pawtucket!"
+        content="Austin Mobile Hair Braiding MA: Your premier mobile hair braiding salon in San Marcos, MA. Specializing in box braids, knotless braids, Senegalese twists, and more. Expert African hair braiding services brought directly to you in San Marcos. Book your appointment today for top-rated braids in San Marcos!"
       />
       <meta
         name="keywords"
-        content="hair braiding Pawtucket RI, mobile hair braiding Pawtucket RI, African hair braiding Pawtucket RI, box braids Pawtucket RI, knotless braids Pawtucket RI, Senegalese twists Pawtucket RI, feed in braids Pawtucket RI, boho braids Pawtucket RI, braiding salon Pawtucket RI, braids near me Pawtucket RI, kids braids Pawtucket RI, black hair salons Pawtucket RI, natural hair salon Pawtucket RI, braiding services Pawtucket RI, best braiding salons Pawtucket RI, braiding shops Pawtucket RI, cheap hair braiding Pawtucket RI, lemonade braids Pawtucket RI, hair braiding shops Pawtucket RI, African braiding salons Pawtucket RI"
+        content="hair braiding San Marcos MA, mobile hair braiding San Marcos MA, African hair braiding San Marcos MA, box braids San Marcos MA, knotless braids San Marcos MA, Senegalese twists San Marcos MA, feed in braids San Marcos MA, boho braids San Marcos MA, braiding salon San Marcos MA, braids near me San Marcos MA, kids braids San Marcos MA, black hair salons San Marcos MA, natural hair salon San Marcos MA, braiding services San Marcos MA, best braiding salons San Marcos MA, braiding shops San Marcos MA, cheap hair braiding San Marcos MA, lemonade braids San Marcos MA, hair braiding shops San Marcos MA, African braiding salons San Marcos MA"
       />
+          <link rel="canonical" href="https://www.atxmobilebraiding.com/San Marcos" />
+
       <a
         href="https://app.squareup.com/appointments/book/9sa73pd3r58ged/LX4S95WG88DY2/start"
         className="fixed bottom-6 right-6 bg-[#73C2F4] text-white hover:text-white hover:bg-sky-600 font-semibold py-4 px-8 rounded-full shadow-lg z-50 transition duration-300"
@@ -24,6 +27,7 @@ export const Pawtucket = (props) => {
       >
         Book Now
       </a>
+
       <Navbar />
 
       <header id="header">
@@ -43,21 +47,18 @@ export const Pawtucket = (props) => {
 
           <div className="relative z-20 py-20 md:py-32 lg:py-40 xl:py-48 px-6 md:px-10 lg:px-20 xl:px-32 text-center text-white">
             <div className="max-w-5xl mx-auto">
-
               <h1 className="text-5xl md:text-6xl lg:text-8xl font-bold mb-4 italic">
-                Top-Rated Hair Braiding & Mobile Salon in Pawtucket, RI
-    
+                Top-Rated Hair Braiding & Mobile Salon in San Marcos, MA
                 <span className="ml-2 animate-ping inline-block rounded-full h-2 w-2 bg-white"></span>
               </h1>
               <p className="text-1xl md:text-3xl mb-8 font-semibold">
-                Austin Mobile Hair Braiding brings expert African hair braiding directly to you in Pawtucket, RI!
+                Austin Mobile Hair Braiding brings expert African hair braiding directly to you in San Marcos, MA!
               </p>
-
               <p className="text-base md:text-lg mb-8 text-gray-200 hidden">
-                Searching for "box braids Pawtucket RI," "knotless braids near me in Pawtucket," or "African hair braiding in Pawtucket"?
+                Searching for "box braids San Marcos MA," "knotless braids near me in San Marcos," or "African hair braiding in San Marcos"?
                 Our skilled team delivers stunning results right to your doorstep. We offer a wide range of styles,
                 including Senegalese twists, feed-in braids, and trendy boho braids, providing the ultimate convenience
-                of a mobile hair salon across Pawtucket.
+                of a mobile hair salon across San Marcos.
               </p>
             </div>
             <div className="mt-10">
@@ -73,17 +74,10 @@ export const Pawtucket = (props) => {
           </div>
         </div>
       </header>
-          <link rel="canonical" href="https://www.atxmobilebraiding.com/pawtucket" />
-
-      {/* Smaller gallery section to showcase work */}
       <Smallergallery />
-
-   
-
-      {/* Contact section for inquiries and booking */}
       <Contact />
     </main>
   );
 };
 
-export default Pawtucket;
+export default SanMarcos;

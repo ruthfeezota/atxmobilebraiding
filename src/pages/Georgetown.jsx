@@ -3,22 +3,18 @@ import Navbar from '../components/Navbar';
 import { Contact } from '../components/contact';
 import Smallergallery from '../components/Smallergallery';
 
-
-export const Boston = (props) => {
+export const Georgetown = (props) => {
   return (
     <main className="relative min-h-screen w-screen overflow-x-hidden">
-    
-      <title>Hair Braiding in Boston MA | Austin Mobile Hair Braiding: Mobile Hair Braiding Boston | Austin Mobile Hair Braiding MA</title>
+EmailPopUp.jsx      <title>Hair Braiding in Georgetown CT | Austin Mobile Hair Braiding: Mobile Hair Braiding Georgetown | Austin Mobile Hair Braiding CT</title>
       <meta
         name="description"
-        content="Austin Mobile Hair Braiding MA: Your premier mobile hair braiding salon in Boston, MA. Specializing in box braids, knotless braids, Senegalese twists, and more. Expert African hair braiding services brought directly to you in Boston. Book your appointment today for top-rated braids in Boston!"
+        content="Austin Mobile Hair Braiding CT: Your premier mobile hair braiding salon in Georgetown, CT. Specializing in box braids, knotless braids, Senegalese twists, and more. Expert African hair braiding services brought directly to you in Georgetown. Book your appointment today for top-rated braids in Georgetown!"
       />
       <meta
         name="keywords"
-        content="hair braiding Boston MA, mobile hair braiding Boston MA, African hair braiding Boston MA, box braids Boston MA, knotless braids Boston MA, Senegalese twists Boston MA, feed in braids Boston MA, boho braids Boston MA, braiding salon Boston MA, braids near me Boston MA, kids braids Boston MA, black hair salons Boston MA, natural hair salon Boston MA, braiding services Boston MA, best braiding salons Boston MA, braiding shops Boston MA, cheap hair braiding Boston MA, lemonade braids Boston MA, hair braiding shops Boston MA, African braiding salons Boston MA"
+        content="hair braiding Georgetown CT, mobile hair braiding Georgetown CT, African hair braiding Georgetown CT, box braids Georgetown CT, knotless braids Georgetown CT, Senegalese twists Georgetown CT, feed in braids Georgetown CT, boho braids Georgetown CT, braiding salon Georgetown CT, braids near me Georgetown CT, kids braids Georgetown CT, black hair salons Georgetown CT, natural hair salon Georgetown CT, braiding services Georgetown CT, best braiding salons Georgetown CT, braiding shops Georgetown CT, cheap hair braiding Georgetown CT, lemonade braids Georgetown CT, hair braiding shops Georgetown CT, African braiding salons Georgetown CT"
       />
-          <link rel="canonical" href="https://www.atxmobilebraiding.com/boston" />
-
       <a
         href="https://app.squareup.com/appointments/book/9sa73pd3r58ged/LX4S95WG88DY2/start"
         className="fixed bottom-6 right-6 bg-[#73C2F4] text-white hover:text-white hover:bg-sky-600 font-semibold py-4 px-8 rounded-full shadow-lg z-50 transition duration-300"
@@ -27,9 +23,7 @@ export const Boston = (props) => {
       >
         Book Now
       </a>
-
       <Navbar />
-
       <header id="header">
         <div className="relative">
           <video
@@ -42,23 +36,21 @@ export const Boston = (props) => {
             <source src="../img/LizStyle.mp4" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
-
           <div className="absolute inset-0 bg-black opacity-30 z-10 h-full"></div>
-
           <div className="relative z-20 py-20 md:py-32 lg:py-40 xl:py-48 px-6 md:px-10 lg:px-20 xl:px-32 text-center text-white">
             <div className="max-w-5xl mx-auto">
               <h1 className="text-5xl md:text-6xl lg:text-8xl font-bold mb-4 italic">
-                Top-Rated Hair Braiding & Mobile Salon in Boston, MA
+                Top-Rated Hair Braiding & Mobile Salon in Georgetown, CT
                 <span className="ml-2 animate-ping inline-block rounded-full h-2 w-2 bg-white"></span>
               </h1>
               <p className="text-1xl md:text-3xl mb-8 font-semibold">
-                Austin Mobile Hair Braiding brings expert African hair braiding directly to you in Boston, MA!
+                Austin Mobile Hair Braiding brings expert African hair braiding directly to you in Georgetown, CT!
               </p>
               <p className="text-base md:text-lg mb-8 text-gray-200 hidden">
-                Searching for "box braids Boston MA," "knotless braids near me in Boston," or "African hair braiding in Boston"?
+                Searching for "box braids Georgetown CT," "knotless braids near me in Georgetown," or "African hair braiding in Georgetown"?
                 Our skilled team delivers stunning results right to your doorstep. We offer a wide range of styles,
                 including Senegalese twists, feed-in braids, and trendy boho braids, providing the ultimate convenience
-                of a mobile hair salon across Boston.
+                of a mobile hair salon across Georgetown.
               </p>
             </div>
             <div className="mt-10">
@@ -74,10 +66,11 @@ export const Boston = (props) => {
           </div>
         </div>
       </header>
+          <link rel="canonical" href="https://www.atxmobilebraiding.com/Georgetown" />
       <Smallergallery />
       <Contact />
     </main>
   );
 };
 
-export default Boston;
+export default Georgetown;

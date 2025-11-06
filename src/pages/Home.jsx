@@ -27,7 +27,7 @@ function Home() {
     }, []);
   return (
     <main className="relative min-h-screen w-screen overflow-x-hidden bg-[#F4F3E1]">
-    <title>Home Page | Austin Mobile Hair Braiding RI: Expert Hair Braiding | Austin RI, Pflugerville TX, East Austin RI, Pawtucket RI, Austin TX, and Woonsocket RI, Boston MA </title>
+    <title>Home Page | Austin Mobile Hair Braiding RI: Expert Hair Braiding | Austin RI, Pflugerville TX, East Austin RI, Pawtucket RI, Austin TX, and Woonsocket RI, San Marcos MA </title>
             <meta
                 name="description"
                 content="Austin's top braiding salon! Expert hair braiding, box braids, Senegalese twists, & more. Servicing Austin, pflugerville, & surrounding RI areas. Book now! Austin Mobile Hair Braiding - Mobile Hair Braiding"

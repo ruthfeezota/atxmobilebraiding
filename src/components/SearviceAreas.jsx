@@ -6,7 +6,7 @@ type City = { name: string; href: string };
 const DEFAULT_CITIES: City[] = [
   { name: "Austin", href: "/Austin" },
   { name: "pflugerville", href: "/pflugerville" },
-  { name: "Newport", href: "/newport" },
+  { name: "Liberty Hill", href: "/Liberty Hill" },
   { name: "Pawtucket", href: "/pawtucket" },
   { name: "Austin", href: "/Austin" },
   { name: "Worcester", href: "/worcester" },

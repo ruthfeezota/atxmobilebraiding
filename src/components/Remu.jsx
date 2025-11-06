@@ -23,7 +23,7 @@ function Remu() {
 
 
  <a
-    href="https://app.squareup.com/appointments/book/9sa73pd3r58ged/LX4S95WG88DY2/start/WONOOQ34BM72MLS4KK2Y2ACD"
+    href="https://app.squareup.com/appointments/book/9sa73pd3r58ged/LX4S95WG88DY2/start"
     className="mt-8 bg-[#73C2F4] text-white hover:text-white hover:bg-sky-600 font-semibold py-4 px-8 rounded-full z-50 transition duration-300"
   >
    Book Your Party Now
