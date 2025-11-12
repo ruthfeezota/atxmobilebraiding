@@ -7,7 +7,7 @@ const DEFAULT_CITIES: City[] = [
   { name: "Austin", href: "/Austin" },
   { name: "pflugerville", href: "/pflugerville" },
   { name: "Liberty Hill", href: "/Liberty Hill" },
-  { name: "Pawtucket", href: "/pawtucket" },
+  { name: "Cedar Park", href: "/Cedar Park" },
   { name: "Austin", href: "/Austin" },
   { name: "Worcester", href: "/worcester" },
 ];
@@ -40,7 +40,7 @@ export const ServiceAreas: React.FC<{
         </h2>
 
         <p className="mt-4 text-2xl text-gray-600">
-          We offer hair braiding in Rhode Island with both salon and mobile
+          We offer hair braiding in Austin Texas with both salon and mobile
           appointments:
         </p>
 
